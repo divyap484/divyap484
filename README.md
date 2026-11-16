@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Divya Kailas Patil 👋
 
-<!--
-**divyap484/divyap484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Aspiring Software Developer 💻
 
-Here are some ideas to get you started:
+I'm a second-year MCA student passionate about building interactive, responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing MCA (2025–2027)
+- 💻 Interested in Web Development and Software Development
+- 🌱 Currently improving my programming and development skills
+- 🚀 Building projects using React.js, JavaScript, Python and Java
+- 📍 Jalgaon, Maharashtra, India
+
+### 🛠️ Technical Skills
+
+- **Programming:** Java, Python, C, C++
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Flask, PHP
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, GitHub, Vite, XAMPP
+
+### 📂 Featured Projects
+
+- **Digital Memory Book** – An interactive personal memory-book web application.
+- **Galaxy Estate World** – A real-estate listing and property-search web application.
+- **E-Commerce Jewellery Website** – An online jewellery shopping website.
+
+### 🌐 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/divya-patil-280964309/)
+
+---
+
+⭐ Thanks for visiting my profile!
